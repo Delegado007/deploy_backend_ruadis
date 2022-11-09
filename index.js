@@ -18,7 +18,7 @@ const whitelist = [
   'http://localhost:3000',
   'http://127.0.0.1:5600',
   'http://localhost:3006',
-  'https://webpack-ruadis.netlify.app'
+  'https://stellular-unicorn-408b27.netlify.app'
 ];
 const options = {
   origin: (origin, callback) => {
