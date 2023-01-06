@@ -18,7 +18,7 @@ const whitelist = [
     'http://localhost:3000',
     'http://127.0.0.1:5600',
     'http://localhost:3006',
-    'https://ruadis-v2.netlify.app/'
+    'https://ruadis-v2.netlify.app'
 ];
 const options = {
     origin: (origin, callback) => {
